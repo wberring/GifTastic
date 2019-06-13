@@ -1,14 +1,3 @@
-@font-face {
-    font-family: 'Arial';
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Times Roman';
-    font-weight: normal;
-    font-style: normal;
-}
 
 body{
 	background: url("../images/fish.png") no-repeat center center fixed;
